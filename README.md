@@ -1,3 +1,3 @@
 # AES
 
-AES written in X86 Assembly
+Advanced Encryption System (single iteration) written in X86 Assembly
